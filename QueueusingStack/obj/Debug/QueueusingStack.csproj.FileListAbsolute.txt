@@ -1,0 +1,14 @@
+C:\cprog\Assignment5\QueueusingStack\bin\Debug\QueueusingStack.exe.config
+C:\cprog\Assignment5\QueueusingStack\bin\Debug\QueueusingStack.exe
+C:\cprog\Assignment5\QueueusingStack\bin\Debug\QueueusingStack.pdb
+C:\cprog\Assignment5\QueueusingStack\obj\Debug\QueueusingStack.csprojAssemblyReference.cache
+C:\cprog\Assignment5\QueueusingStack\obj\Debug\QueueusingStack.csproj.CoreCompileInputs.cache
+C:\cprog\Assignment5\QueueusingStack\obj\Debug\QueueusingStack.exe
+C:\cprog\Assignment5\QueueusingStack\obj\Debug\QueueusingStack.pdb
+C:\cprog\stacksandqueues Assignment5\QueueusingStack\bin\Debug\QueueusingStack.exe.config
+C:\cprog\stacksandqueues Assignment5\QueueusingStack\bin\Debug\QueueusingStack.exe
+C:\cprog\stacksandqueues Assignment5\QueueusingStack\bin\Debug\QueueusingStack.pdb
+C:\cprog\stacksandqueues Assignment5\QueueusingStack\obj\Debug\QueueusingStack.csprojAssemblyReference.cache
+C:\cprog\stacksandqueues Assignment5\QueueusingStack\obj\Debug\QueueusingStack.csproj.CoreCompileInputs.cache
+C:\cprog\stacksandqueues Assignment5\QueueusingStack\obj\Debug\QueueusingStack.exe
+C:\cprog\stacksandqueues Assignment5\QueueusingStack\obj\Debug\QueueusingStack.pdb

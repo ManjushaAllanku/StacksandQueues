@@ -1,0 +1,7 @@
+C:\cprog\stacksandqueues Assignment5\NGEusingstack\bin\Debug\NGEusingstack.exe.config
+C:\cprog\stacksandqueues Assignment5\NGEusingstack\bin\Debug\NGEusingstack.exe
+C:\cprog\stacksandqueues Assignment5\NGEusingstack\bin\Debug\NGEusingstack.pdb
+C:\cprog\stacksandqueues Assignment5\NGEusingstack\obj\Debug\NGEusingstack.csprojAssemblyReference.cache
+C:\cprog\stacksandqueues Assignment5\NGEusingstack\obj\Debug\NGEusingstack.csproj.CoreCompileInputs.cache
+C:\cprog\stacksandqueues Assignment5\NGEusingstack\obj\Debug\NGEusingstack.exe
+C:\cprog\stacksandqueues Assignment5\NGEusingstack\obj\Debug\NGEusingstack.pdb

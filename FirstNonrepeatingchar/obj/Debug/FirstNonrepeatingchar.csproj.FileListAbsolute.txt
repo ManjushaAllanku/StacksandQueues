@@ -1,0 +1,7 @@
+C:\cprog\stacksandqueues Assignment5\FirstNonrepeatingchar\bin\Debug\FirstNonrepeatingchar.exe.config
+C:\cprog\stacksandqueues Assignment5\FirstNonrepeatingchar\bin\Debug\FirstNonrepeatingchar.exe
+C:\cprog\stacksandqueues Assignment5\FirstNonrepeatingchar\bin\Debug\FirstNonrepeatingchar.pdb
+C:\cprog\stacksandqueues Assignment5\FirstNonrepeatingchar\obj\Debug\FirstNonrepeatingchar.csprojAssemblyReference.cache
+C:\cprog\stacksandqueues Assignment5\FirstNonrepeatingchar\obj\Debug\FirstNonrepeatingchar.csproj.CoreCompileInputs.cache
+C:\cprog\stacksandqueues Assignment5\FirstNonrepeatingchar\obj\Debug\FirstNonrepeatingchar.exe
+C:\cprog\stacksandqueues Assignment5\FirstNonrepeatingchar\obj\Debug\FirstNonrepeatingchar.pdb

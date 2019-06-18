@@ -1,0 +1,7 @@
+C:\cprog\stacksandqueues Assignment5\Stackusingqueue\bin\Debug\Stackusingqueue.exe.config
+C:\cprog\stacksandqueues Assignment5\Stackusingqueue\bin\Debug\Stackusingqueue.exe
+C:\cprog\stacksandqueues Assignment5\Stackusingqueue\bin\Debug\Stackusingqueue.pdb
+C:\cprog\stacksandqueues Assignment5\Stackusingqueue\obj\Debug\Stackusingqueue.csprojAssemblyReference.cache
+C:\cprog\stacksandqueues Assignment5\Stackusingqueue\obj\Debug\Stackusingqueue.csproj.CoreCompileInputs.cache
+C:\cprog\stacksandqueues Assignment5\Stackusingqueue\obj\Debug\Stackusingqueue.exe
+C:\cprog\stacksandqueues Assignment5\Stackusingqueue\obj\Debug\Stackusingqueue.pdb
